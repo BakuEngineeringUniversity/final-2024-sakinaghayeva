@@ -1,0 +1,1 @@
+data class Customer(val firstName: String, val lastName: String, val phoneNumber: String, val finCode: String)
